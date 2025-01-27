@@ -1,4 +1,3 @@
-Here's the content converted into Markdown:
 
 ```markdown
 # London Mini News Portal
