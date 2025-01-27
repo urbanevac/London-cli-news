@@ -1,5 +1,3 @@
-
-```markdown
 # London Mini News Portal
 
 The London Mini News Portal is a command-line tool that provides real-time weather, top news headlines, and a daily inspirational quote. It fetches weather data from OpenWeather, news from the Mediastack API, and quotes from ZenQuotes API. The portal updates every 60 seconds, ensuring you have the latest information at your fingertips.
