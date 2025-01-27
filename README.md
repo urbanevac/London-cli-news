@@ -52,6 +52,3 @@ If the `.env` file is missing or the API keys are invalid, the script will displ
 
 ## License:
 MIT License. See LICENSE for more details.
-```
-
-This should work well in any markdown-compatible viewer or editor! Let me know if you need any adjustments.
