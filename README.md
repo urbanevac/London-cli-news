@@ -31,7 +31,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/news-portal-cli.git
+   git clone https://github.com/urbanevac/news-portal-cli.git
    cd news-portal-cli
    ```
 
